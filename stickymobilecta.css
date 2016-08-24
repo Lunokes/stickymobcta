@@ -1,0 +1,39 @@
+/* Fixed CTA Styling */
+.andBG {
+	background: url(http://images.salecycle.com/17565/12480/mobilescoukstickycta.png) no-repeat !important; 
+	background-size:70px 70px !important;
+	display:block !important;
+	}
+
+.pxw {
+	width: 70px !important;
+	height: 70px !important; 
+	display:block !important;
+	}
+
+.zindex {
+	position: absolute;
+	z-index: -1 !important;
+	}
+
+.stickNum { 
+	margin-right:8px; 
+	z-index:2 !important; 
+	position: absolute;
+	width:62px;
+	float:right;
+	font-size:10px !important;
+	line-height: 210% !important;
+}
+
+.fixed {
+	position: fixed; 
+	bottom:80px;
+	right:10px;
+	left: auto;
+	width:70px;
+	height:70px;
+	display: block !important; 
+	visibility: visible !important;
+	opacity: 1 !important;
+}
